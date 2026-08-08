@@ -6,7 +6,7 @@ This dashboard was designed for **Job Seekers, Career Transitioners, and Profess
 
 Using a real-world dataset containing **2024 data science job postings**, including job titles, salaries, and locations, this project brings everything together into an interactive Power BI dashboard that makes exploring the market simpler and more intuitive.
 
-![Dashboard Page 1](/images//project1page1.png)
+![Dashboard Page 1](./images//project1page1.png)
 # Dashboard File
 
 You can find the Power BI dashboard file here:
@@ -45,7 +45,7 @@ The report is divided into **two pages**, with each page serving a different pur
 
 This page provides an overview of the data job market at a glance. It highlights important KPIs such as **total job postings, median salaries, and the most common job titles**, giving users a quick understanding of the overall market.
 
-![Dashboard Page 1](/images/project1page1.png)
+![Dashboard Page 1](./images/project1page1.png)
 
 ## Page 2: Job Title Drill-Through
 
@@ -53,7 +53,7 @@ This page provides an overview of the data job market at a glance. It highlights
 
 This page provides a more detailed look at an individual job title. Users can drill through from the main dashboard to explore information such as **salary ranges, work-from-home availability, top hiring platforms, and the geographic distribution of job postings**.
 
-![Dashboard Page 2](/images/project2page2.png)
+![Dashboard Page 2](./images/project2page2.png)
 
 # Conclusion
 
