@@ -48,7 +48,7 @@ The main dashboard provides a high-level view of the data-job market, including 
 
 The drill-through page allows users to dive deeper into a specific job title and explore its **salary, location, remote-work and hiring information**.
 
-![Dashboard Page 2](./images/project2page2)
+![Dashboard Page 2](./images/project2page2.png)
 
 ## 🛠️ Tools Used
 
