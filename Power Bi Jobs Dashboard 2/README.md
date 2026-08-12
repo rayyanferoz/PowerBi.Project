@@ -38,7 +38,7 @@ The single-page dashboard provides an overview of:
 - 💼 Salary comparisons across job titles
 - 🌎 Geographic job market insights
   
-📊![Dashboard 2](./Power-Bi-Jobs-Dashboard/images/project2page2.png)
+📊 ![Dashboard 2](./Images/Project2Page1.png)
 
 
 - `data_jobs_dashboard_2.0.pbix` — Power BI dashboard
