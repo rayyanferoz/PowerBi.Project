@@ -10,7 +10,7 @@ The goal was to turn a large dataset into an **interactive Power BI dashboard** 
 
 ## 📸 Dashboard Preview
 
-![Data Jobs Dashboard](./images/dashboard_page_1.png)
+![Data Jobs Dashboard](./images/project1page1.png)
 
 ## 🔎 What Can You Explore?
 
@@ -42,13 +42,13 @@ The goal was to turn a large dataset into an **interactive Power BI dashboard** 
 
 The main dashboard provides a high-level view of the data-job market, including **job counts, salaries, job titles, locations and remote-work insights**.
 
-![Dashboard Page 1](./images/dashboard_page_1.png)
+![Dashboard Page 1](./images/project1page1.png)
 
 ### 2️⃣ Job Title Analysis
 
 The drill-through page allows users to dive deeper into a specific job title and explore its **salary, location, remote-work and hiring information**.
 
-![Dashboard Page 2](./images/dashboard_page_2.png)
+![Dashboard Page 2](./images/project2page2)
 
 ## 🛠️ Tools Used
 
