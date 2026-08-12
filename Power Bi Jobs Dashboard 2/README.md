@@ -1,69 +1,57 @@
-# 📊 Power BI Data Jobs Dashboard
+# 📊 Data Jobs Dashboard 2.0 | Power BI
 
-> Turning real-world job posting data into interactive insights for smarter career decisions.
-
-## 🚀 Project Overview
-
-This project explores the **2024 data science job market** using real-world job posting data, focusing on salaries, job demand, locations, remote opportunities, and skills.
-
-The goal was to turn a large dataset into an **interactive Power BI dashboard** that makes the job market easier to explore for job seekers and anyone interested in careers in data.
-
-## 📸 Dashboard Preview
-
-![Dashboard Page 1](./Power%20Bi%20Jobs%20Dashboard/images/project1page1.png)
-## 🔎 What Can You Explore?
-
-💼 **Job Demand** — Compare the number of postings across different data roles.
-
-💰 **Salaries** — Explore median salaries and salary ranges across positions.
-
-📍 **Locations** — See where data jobs are concentrated around the world.
-
-🏠 **Remote Work** — Investigate work-from-home opportunities.
-
-🛠️ **Skills** — Explore the skills associated with different data roles.
-
-## ⚙️ Power BI Skills Demonstrated
-
-* 🧹 **Power Query** — Data cleaning, transformation & ETL
-* 🔗 **Data Modeling** — Relationships & dimensional modeling
-* 🧮 **DAX** — Measures, `CALCULATE()` & filter context
-* 📊 **Data Visualization** — Bar, column, line, area & card visuals
-* 🗺️ **Geospatial Analysis** — Mapping job locations
-* 🎚️ **Interactive Slicers** — Dynamic filtering
-* 🔘 **Buttons & Bookmarks** — Page navigation
-* ➡️ **Drill-Through** — Detailed job-title analysis
-* 📅 **Date Dimension** — Time-based analysis
-
-## 📈 Dashboard Pages
-
-### 1️⃣ Market Overview
-
-The main dashboard provides a high-level view of the data-job market, including **job counts, salaries, job titles, locations and remote-work insights**.
-
-![Dashboard Page 1](./Power%20Bi%20Jobs%20Dashboard/images/project1page1.png)
-### 2️⃣ Job Title Analysis
-
-The drill-through page allows users to dive deeper into a specific job title and explore its **salary, location, remote-work and hiring information**.
-
-![Dashboard Page 1](./Power%20Bi%20Jobs%20Dashboard/images/project2page2.png)
-## 🛠️ Tools Used
-
-`Power BI` • `Power Query` • `DAX` • `Excel` • `GitHub`
-
-## 🎯 Key Takeaway
-
-This project demonstrates the complete Power BI workflow:
-
-**Raw Data → Transformation → Data Model → DAX → Visualization → Interactive Insights**
-
-Rather than simply displaying numbers, the dashboard is designed to help users **explore the data and make better-informed career decisions.**
-
-## 📂 Project Files
-
-📊 [View / Download the Power BI Dashboard](./Power%20Bi%20Jobs%20Dashboard/DataJobsDashboard.pbix)
-📁 **Dataset & supporting files** are included within the repository.
+> A single-page Power BI dashboard built to explore the 2024 data job market, with a focus on salaries, job demand, skills, and job titles.
 
 ---
 
+## 🎯 Project Overview
+
+Data Jobs Dashboard 2.0 is the second version of my Power BI data job market project.
+
+Using a real-world dataset of 2024 data science job postings, I built a streamlined single-page dashboard that helps users quickly explore **job demand, salaries, skills, and job titles**.
+
+The goal was to turn a large dataset into something that is easy to explore and actually useful for someone researching the data job market.
+
+## 🛠️ Skills & Features
+
+- 🎨 Dashboard design & layout
+- ⚙️ Power Query for data cleaning and transformation
+- 🔗 Star schema data modeling
+- 🧮 DAX measures and calculations
+- 📊 Bar, column, line & area charts
+- 🗺️ Geospatial/map visualizations
+- 🔢 KPI cards
+- 🎚️ Interactive slicers & filtering
+- 🔘 Buttons & bookmarks
+- 🔍 Drill-through functionality
+- ⚡ Report performance considerations
+
+## 📈 Dashboard Highlights
+
+The single-page dashboard provides an overview of:
+
+- 💼 Total job postings
+- 🧠 Skills per job
+- 💰 Median yearly salary
+- 💵 Median hourly salary
+- 📊 Most in-demand skills
+- 💼 Salary comparisons across job titles
+- 🌎 Geographic job market insights
+  
+📊![Dashboard 2](./Power-Bi-Jobs-Dashboard/images/project2page2.png)
+
+
+- `data_jobs_dashboard_2.0.pbix` — Power BI dashboard
+- `README.md` — Project documentation
+- `Images/` — Dashboard screenshots
+
+## 🧠 What I Learned
+
+This project helped me move beyond basic Power BI visuals and practice **data transformation, modeling, DAX, interactive filtering, and dashboard design** in a more complete end-to-end project.
+
+## 🚀 Conclusion
+
+Data Jobs Dashboard 2.0 turns thousands of job postings into a compact, interactive view of the data job market.
+
+It represents my progression from basic Power BI reporting toward building dashboards that combine **data modeling, analysis, and user-focused design**.
 ⭐ This project is part of my ongoing journey into **Data Analytics, Power BI and Data Science**.
