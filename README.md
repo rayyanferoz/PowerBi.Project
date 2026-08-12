@@ -61,7 +61,7 @@ Rather than simply displaying numbers, the dashboard is designed to help users *
 
 ## 📂 Project Files
 
-📊 **[Power BI Dashboard](./Data_Jobs_Dashboard.pbix)**
+📊 [View / Download the Power BI Dashboard](./Power%20Bi%20Jobs%20Dashboard/DataJobsDashboard.pbix)
 📁 **Dataset & supporting files** are included within the repository.
 
 ---
